@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+本网站是个人产出平台，笔者总是自诩为一名软件工程师，目前主方向为移动平台框架层研发
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+工作目前主要为嵌入式平台，主要负责并产出了小米IoTNuttx平台UI页面管理框架和开发标准化的0到1的进程推进
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+励志推动类Unix操作系统，编程语言的下一个质变，打造编程语言与OS Platform的融合研发
 
+在大数据，人工智能基本知识体系，后台研发（Python Java）都浅尝辄止，虽不精通，但横向的拓展给了笔者不少视野的增加和问题解决方案的思路
 
-[jekyll-organization]: https://github.com/jekyll
+笔者的技术认知为：在业务领域，几乎所有的解决方案都以各种方式在不同领域呈现，要做的是理解问题，并且对解决方案按照当下的场景“本地化” 后予以实施解决
+
+笔者的软件工程认知为：凡事可以简单的，都要复杂，凡事可以复杂的，都致力于简单
+
+热爱思想观点碰撞，喜爱有效交流，对新的人和事总是抱有热忱和高期待
+
+笔者这些写的内容，都是希望与有意交流的人互相交流
