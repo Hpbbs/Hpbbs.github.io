@@ -13,11 +13,11 @@ categories: GUI 技术选型
 
 文档更新记录：
 
-Date：2020/10/xx: 添加支持的功能描述 by Hpbbs([liutao18@xiaomi.com](mailto:liutao18@xiaomi.com))
+Date：2020/10/xx: 添加支持的功能描述 by Hpbbs([toweros@sina.com](mailto:toweros@sina.com))
 
-Date：2020/12/18: 添加对比的性能和重用方面的内容 by Hpbbs([liutao18@xiaomi.com](mailto:liutao18@xiaomi.com))
+Date：2020/12/18: 添加对比的性能和重用方面的内容 by Hpbbs([toweros@sina.com](mailto:toweros@sina.com))
 
-Data：2020/12/20: 修改目录结构，以技术选型原则重新安排内容 by Hpbbs([liutao18@xiaomi.com](mailto:liutao18@xiaomi.com))
+Data：2020/12/20: 修改目录结构，以技术选型原则重新安排内容 by Hpbbs([toweros@sina.com](mailto:toweros@sina.com))
 
 ---
 
