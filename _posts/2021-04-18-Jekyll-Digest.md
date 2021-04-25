@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Jekyll官网基本摘要-备忘
+title: Jekyll官网基本摘要
 date:   2021-04-18 00:00:00 +0800
 categories: 不可归档
 ---
+* toc
 {:toc}
-
-# Jekyll Liquid Step by Step 摘录
 
 Jekyll很多功能使用 Liquid 绑定
 jekyll与Liquid关联是在HTML页面添加front-mater

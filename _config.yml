@@ -23,17 +23,18 @@ email: toweros@sina.com
 description: >- # this means to ignore newlines until "baseurl:"
   Android IoT GUI QuickJs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://campuselife.cn" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  Hpbbs
 
 show_excerpts: false
+# mermaid_enable: true 没有用
 minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
   social_links:
-    twitter: 
+    # twitter: 
     github:  hpbbs
     # devto: jekyll
     # dribbble: jekyll
@@ -92,3 +93,8 @@ markdown: kramdown
 #    - vendor/cache/
 #    - vendor/gems/
 #    - vendor/ruby/
+defaults:
+  - scope:
+      path: "assets/img" # This assumes that your Jekyll site has a folder path of assets/img where you have images (static files) stored
+    values:
+      image: true
