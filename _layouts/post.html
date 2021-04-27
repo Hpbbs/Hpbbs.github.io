@@ -18,11 +18,12 @@ layout: default
         </time>
       {%- endif -%}
       {%- if page.author -%}
-        • {% for author in page.author %}
+        by {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            <span class="p-author h-card" itemprop="name">{{ author }}(towerosforget@gmail.com)</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
+        • 页面字数：{{ page.content | strip_html | strip_newlines | remove: " " | size }}
       {%- endif -%}</p>
   </header>
 
