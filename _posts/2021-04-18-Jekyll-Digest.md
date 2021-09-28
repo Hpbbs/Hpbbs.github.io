@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Jekyll官网基本摘要
+title: Jekyll使用和Liquid语法
 date:   2021-04-18 00:00:00 +0800
-categories: 不可归档
+categories: [不可归档]
 ---
 * toc
 {:toc}
-
 Jekyll很多功能使用 Liquid 绑定
 jekyll与Liquid关联是在HTML页面添加front-mater
 
 {% raw %}
 ```html
 ---
-some yaml： 告诉给liguid的配置内容
+some yaml： 告诉给liquid的配置内容
 ---
 下面是从liquid runtime 访问的内容
 
@@ -324,7 +323,8 @@ layout: defalut
 
 在根目录创建Gemfile
 
-可以使用：
+可以使用：   
+
 `bundle init`
 
 `bundle add jekyll`

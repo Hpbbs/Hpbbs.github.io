@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "嵌入式绘制引擎对比：GUIX vs LVGL"
+title:  "渲染引擎对比：GUIX vs LVGL"
 date:   2020-10-11 10:09:00 +0800
-categories: GUI 技术选型
+categories: [基础理论,嵌入式]
+tags: [计算机图形学,GUI,技术选型,UIRender,嵌入式]
 ---
 * toc
 {:toc}
@@ -193,6 +194,6 @@ Data：2020/12/20: 修改目录结构，以技术选型原则重新安排内容 
 
 ### 参考
 
-1. Unix编程思想
-2. LVGL官网
-3. GUIX官网
+1. Unix编程思想：关于复用的价值
+2. LVGL官网：lvgl
+3. GUIX官网：Guix

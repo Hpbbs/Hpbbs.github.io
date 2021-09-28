@@ -1,8 +1,9 @@
 ---
 layout: post
-title: WebAssemble Overview
+title: WebAssemble 概览
 author: Hpbbs
-published: false
+categories: [Web]
+published: true
 ---
 
 * toc

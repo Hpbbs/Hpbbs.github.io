@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll-Paper!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -7,94 +7,77 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Hpbbs View
+title: 好風
 email: toweros@sina.com
+name: 刘涛
 description: >- # this means to ignore newlines until "baseurl:"
-  Android IoT GUI QuickJs
+  共同学习，共同富裕.
+keywords: [Your keywords]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:  Hpbbs
+domain: "blog.campuselife.cn" # the domain name for your site, e.g. example.com
+language: zh-cn
+# Supported languages list:
+# en: English
+# de: Deutsche (German)
+# es: Español (Spanish)
+# fr: Français (French)
+# ja: 日本語 (Japanese)
+# pt: Português (Portuguese)
+# zh-cn: 简体中文 (Simplified Chinese)
+# zh-tw: 繁體中文 (Traditional Chinese)
+# ko : 한국어(Korean)
 
-show_excerpts: false
-# mermaid_enable: true 没有用
-minima:
-  date_format: "%b %-d, %Y"
+analytics:   # the Google Analytics property ID, e.g. UA-XXXXX-Y
 
-  # generate social links in footer
-  social_links:
-    # twitter: 
-    github:  hpbbs
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
+paginate: 25
+paginate_path: "/page:num/"
 
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+comments: false  # enable comments
+disqus:          # disqus account
 
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+mathjax: true # Mathematics
+mermaid: true # Diagrams
 
+permalink: /:year/:month/:day/:title
+
+sass:
+  sass_dir: _sass
+  style: expanded # compressed, compact, expanded or compressed
+
+# Category settings
+jekyll-archives:
+  enabled: 
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: /category/:name/
+    tag: /tag/:name/
 
 # Build settings
-theme: minima
+markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-seo-tag
 
-markdown: kramdown
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-#  exclude:
-#    - .sass-cache/
-#    - .jekyll-cache/
-#    - gemfiles/
-#    - Gemfile
-#    - Gemfile.lock
-#    - node_modules/
-#    - vendor/bundle/
-#    - vendor/cache/
-#    - vendor/gems/
-#    - vendor/ruby/
-defaults:
-  - scope:
-      path: "assets/img" # This assumes that your Jekyll site has a folder path of assets/img where you have images (static files) stored
-    values:
-      image: true
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

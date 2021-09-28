@@ -19,8 +19,6 @@ Mail：toweros@sina.com
 * toc
 {:toc}
 
-
-
 ### 好的接口设计的标准？（Unix模块接口规范）
 
 1. 可显的
@@ -94,8 +92,6 @@ graph LR
 结尾 --> 总结 --> HTML/NULL --> Operation/决策性操作
 背景 --> 信息不同角度传达/全局色彩/Style --> HTML/Style/CSS --> Style
 ```
-
-
 
 ### 设计风格
 
