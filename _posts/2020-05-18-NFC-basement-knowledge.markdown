@@ -2,7 +2,7 @@
 layout: post
 title: NFC 基础知识
 author: Hpbbs
-catagories: [硬件,Android]
+categories: [硬件,Android]
 tags: [NFC,硬件,驱动,Android]
 ---
 
