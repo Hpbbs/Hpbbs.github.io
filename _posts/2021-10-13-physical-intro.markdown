@@ -2,7 +2,7 @@
 layout: post
 title: "物理学导论"
 published: false
-categories: [物理学]
+categories: [Physical]
 tags: [课程笔记]
 ---
 

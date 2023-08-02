@@ -2,7 +2,7 @@
 layout: post
 title: 树莓派初始化-无屏幕仅路由器和板子
 author: Hpbbs
-categories: [硬件,树莓派]
+categories: [ComputerScience]
 ---
 
 ### 官网下载 raspi-imager

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "网络知识平台 知识成本转换效率模型"
-categories: 想法
+categories: Ideal
 ---
 
 在知乎平台，有很多号主会编辑并分享出个人很好的教程，知识分享，个人为了名声，在平台编辑，读者阅读

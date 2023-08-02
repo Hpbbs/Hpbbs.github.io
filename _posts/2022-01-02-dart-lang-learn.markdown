@@ -2,8 +2,8 @@
 layout: post
 title: "Dart 基本使用和介绍"
 published: false
-categories: [Android]
-tags: [快速复习,读书笔记]
+categories: [ComputerScience]
+tags: [Flutter]
 ---
 
 # Flutter 端侧开发 学习笔记

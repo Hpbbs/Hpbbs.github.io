@@ -2,7 +2,7 @@
 layout: post
 title: i18n - GNU Gettext 实现
 date:   2021-04-18 17:18:21 +0800
-categories: [技术选型]
+categories: [ComputerScience]
 published: false
 ---
 

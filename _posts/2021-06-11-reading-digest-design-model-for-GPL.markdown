@@ -2,7 +2,7 @@
 layout: post
 title: "读书-编程语言的设计与实现模式"
 published: false
-categories: [基础理论,编译原理]
+categories: [ComputerScience, Book]
 
 ---
 

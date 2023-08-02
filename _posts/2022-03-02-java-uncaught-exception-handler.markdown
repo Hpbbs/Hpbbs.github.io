@@ -2,8 +2,8 @@
 layout: post
 title: "UncaughtExceptionHandler "
 published: false
-categories: [Android]
-tags: [快速复习,读书笔记]
+categories: [ComputerScience]
+tags: [Java]
 ---
 
 

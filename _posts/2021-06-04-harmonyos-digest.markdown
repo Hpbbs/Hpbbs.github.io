@@ -2,7 +2,7 @@
 layout: post
 title: 了解鸿蒙-摘要
 author: Hpbbs
-categories: [随笔,待完成]
+categories: [ComputerScience]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "哈希算法"
 published: false
-
+categories: [ComputerScience, Algorithm]
 ---
 
 

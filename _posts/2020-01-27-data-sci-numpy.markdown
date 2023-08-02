@@ -2,7 +2,7 @@
 layout: post
 title:  "Python数据科学 之 NumPy使用字典式讲解"
 date:   2020-01-17
-categories: [数据科学]
+categories: [ComputerScience]
 tags: [数据科学,Python,Numpy]
 published: true
 ---

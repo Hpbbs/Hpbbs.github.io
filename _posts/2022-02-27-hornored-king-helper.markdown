@@ -2,7 +2,7 @@
 layout: post
 title: "王者荣耀 小tips"
 published: true
-categories: [game theory]
+categories: [Essay]
 tags: [game]
 ---
 

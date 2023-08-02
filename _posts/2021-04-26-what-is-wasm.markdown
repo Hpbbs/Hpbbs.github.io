@@ -2,7 +2,7 @@
 layout: post
 title: WebAssemble 概览
 author: Hpbbs
-categories: [Web]
+categories: [ComputerScience]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 骑行进藏规划
 author: Hpbbs
-categories: [游记]
+categories: [Traval]
 published: true
 ---
 * toc

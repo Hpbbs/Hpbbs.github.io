@@ -2,7 +2,7 @@
 layout: post
 title: "项目管理基本工作流"
 published: true
-categories: [pm]
+categories: [ProjectManage]
 tags: [pm]
 ---
 

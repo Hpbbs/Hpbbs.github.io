@@ -2,7 +2,7 @@
 layout: post
 title: "Libuv线程池核心代码笔记"
 published: true
-categories: [Unix,框架阅读]
+categories: [ComputerScience]
 ---
 
 Libuv 线程池

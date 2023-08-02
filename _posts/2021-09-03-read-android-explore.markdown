@@ -2,8 +2,8 @@
 layout: post
 title: "读书摘要-Android 开发艺术探索"
 published: true
-categories: [Android]
-tags: [快速复习,读书笔记]
+categories: [ComputerScience, Book]
+tags: [Android]
 ---
 
 # Android 开发艺术探索
