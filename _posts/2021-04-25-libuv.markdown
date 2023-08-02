@@ -25,7 +25,7 @@ published: true
 The library provides much more than a simple abstraction over different I/O polling mechanisms: ‘handles’ and ‘streams’ provide a high level abstraction for sockets and other entities; cross-platform file I/O and threading functionality is also provided, amongst other things.
 （高级抽象：**贴近服务场景的能力接口**：handles streams）
 
-![ sdaf ](/assets/img/2021-04-25-libuv-libuv-arch.png)
+![ sdaf ](/assets/img/doc/2021-04-25-libuv-libuv-arch.png)
 
 ### 3.handle and requests
 
@@ -51,7 +51,7 @@ The event loop follows the rather **usual single threaded asynchronous I/O appro
 
 loop 循环迭代 流程图
 
-![ sdaf ](/assets/img/loop_iteration.png)
+![ sdaf ](/assets/img/doc/2021-04-25-libuv-loop_iteration.png)
 
 libuv uses a thread pool to make asynchronous file I/O operations possible, but network I/O is always performed in a single thread, each loop’s thread.
 
