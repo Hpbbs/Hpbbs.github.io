@@ -1,5 +1,5 @@
 ---
-title: 看长安三万里，说文化KOL I 随笔
+title: 看长安三万里，说文化 KOL I 随笔
 date: 2023-03-11
 categories: [Messages]
 tags: [Movies]
