@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll使用和Liquid语法
 date:   2021-04-18 00:00:00 +0800
-categories: [不可归档]
+categories: [Unclassfy]
 ---
 * toc
 {:toc}

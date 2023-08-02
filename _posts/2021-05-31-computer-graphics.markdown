@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 计算机图形学笔记
-categories: [计算机图形学,基本理论]
+categories: [ComputerScience, Graphics]
 published: true
 ---
 

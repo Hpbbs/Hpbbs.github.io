@@ -2,7 +2,7 @@
 layout: post
 title: "LearnOpengl 摘抄"
 published: false
-categories: [computer]
+categories: [ComputerScience, Graphics]
 tags: [computer graphics]
 ---
 

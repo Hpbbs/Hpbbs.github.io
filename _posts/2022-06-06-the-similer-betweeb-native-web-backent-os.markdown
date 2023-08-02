@@ -2,8 +2,8 @@
 layout: post
 title: "Linux Native(iOS,Android) Backent Web 组件的一致性"
 published: true
-categories: [构想]
-tags: [tech, 灵感]
+categories: [ComputerScience]
+tags: [Solution]
 ---
 
 

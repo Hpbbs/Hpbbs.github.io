@@ -2,7 +2,7 @@
 layout: post
 title:  "EventBus框架结构"
 date:   2020-02-11
-categories: Android
+categories: ComputerScience
 tags: [Android,框架学习]
 ---
 {: toc }

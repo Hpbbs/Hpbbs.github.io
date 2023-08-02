@@ -2,8 +2,8 @@
 layout: post
 title: "Android存储方式的官方推荐"
 published: true
-categories: [tech]
-tags: [Android, 摘抄]
+categories: [ComputerScience]
+tags: [Android]
 ---
 
 ### Android官方推荐最佳实践

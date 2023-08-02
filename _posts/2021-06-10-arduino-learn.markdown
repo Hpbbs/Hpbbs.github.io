@@ -2,7 +2,7 @@
 layout: post
 title: Arduino 基本概念 和 常用硬件操控
 author: Hpbbs
-categories: [硬件,Arduino]
+categories: [ComputerScience]
 ---
 * toc
 {: toc }

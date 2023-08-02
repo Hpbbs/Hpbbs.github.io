@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 读书思考-编程语言关注的点-C++ 程序语言设计 by Bjarne Stroustrup
+categories: [ComputerScience, Book]
 ---
 
 One programming Language meta-conception concerned

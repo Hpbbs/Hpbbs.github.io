@@ -2,8 +2,8 @@
 layout: post
 title:  "Rust 安装，卸载，nightly/stable版本切换（全局或工作空间），提高下载速度"
 date:   2020-01-26
-categories: [Rust]
-tags: [Rust,环境配置]
+categories: [ComputerScience]
+tags: [Rust]
 published: true
 ---
 

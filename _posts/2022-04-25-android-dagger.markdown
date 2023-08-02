@@ -2,8 +2,8 @@
 layout: post
 title: "Android Dependency Injection: Dagger 基本使用"
 published: true
-categories: [tech]
-tags: [Android,Framework,摘抄]
+categories: [ComputerScience]
+tags: [Android,Framework]
 ---
 
 ### DI 简单介绍

@@ -2,7 +2,7 @@
 layout: post
 title: Posix pthread基本使用
 published: true
-categories: [Unix,框架阅读]
+categories: [ComputerScience]
 ---
 
 **无论在理论上线程的概念如何定义，在 编程 上的体现，只是POSIX thead api的 同步工具 和线程 id， 可以说 *mutex/cond/signal（同步工具） + pthread_id（Naming工具/区分的具柄）= Thread***

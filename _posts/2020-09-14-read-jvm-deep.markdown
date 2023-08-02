@@ -2,7 +2,7 @@
 layout: post
 title:  "读书笔记-深入理解JVM-周志明"
 date:   2020-02-11
-categories: JVM
+categories: ComputerScience
 tags: [读书笔记, Android, JVM]
 ---
 

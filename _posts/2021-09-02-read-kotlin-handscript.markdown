@@ -2,8 +2,8 @@
 layout: post
 title: "读书摘要-kotlin编程权威指南"
 published: true
-categories: [Android]
-tags: [快速复习,读书笔记,kotlin]
+categories: [ComputerScience, Book]
+tags: [Android]
 ---
 
 # Kotlin编程权威指南

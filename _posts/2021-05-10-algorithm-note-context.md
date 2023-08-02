@@ -2,7 +2,7 @@
 layout: post
 title:  "算法笔记"
 date:   2021-05-10
-categories: algorithm
+categories: [ComputerScience, Algorithm]
 author: Hpbbs
 published: false
 ---

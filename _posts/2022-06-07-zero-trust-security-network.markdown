@@ -2,7 +2,7 @@
 layout: post
 title: "零信任网络概述"
 published: true
-categories: [arch]
+categories: [ComputerScience]
 tags: [认知]
 ---
 

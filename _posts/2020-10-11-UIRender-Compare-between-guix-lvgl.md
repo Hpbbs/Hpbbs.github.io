@@ -2,7 +2,7 @@
 layout: post
 title:  "渲染引擎对比：GUIX vs LVGL"
 date:   2020-10-11 10:09:00 +0800
-categories: [基础理论,嵌入式]
+categories: ComputerScience
 tags: [计算机图形学,GUI,技术选型,UIRender,嵌入式]
 ---
 * toc
