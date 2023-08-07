@@ -4,6 +4,7 @@ title: "项目管理基本工作流"
 published: true
 categories: [ProjectManage]
 tags: [pm]
+mermaid: true
 ---
 
 # 项目管理学习和优化
@@ -52,7 +53,6 @@ tags: [pm]
 
 ```mermaid
 graph LR;
-
 
 A(需求池/待审批需求) --需求分析文档--> C(需求排期/任务拆分) --给定时间--> E(产品设计) --PRD文档--> DKF(待开发) --责任RD--> G(开发中) --> H(待测试) --责任QA--> CSZ(测试中) --上线许可--> J(上线/灰度) --> K(完成)
 

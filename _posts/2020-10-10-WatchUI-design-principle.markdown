@@ -4,6 +4,7 @@ title:  "智能手表等小屏幕UI设计规范"
 date:   2020-04-18 21:13 +0800
 categories: 设计思考
 published: true
+mermaid: true
 ---
 
 ---
