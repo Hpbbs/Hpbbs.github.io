@@ -4,6 +4,7 @@ title: "UncaughtExceptionHandler "
 published: false
 categories: [ComputerScience]
 tags: [Java]
+mermaid: true
 ---
 
 
